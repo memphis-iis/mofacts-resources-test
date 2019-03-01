@@ -1,0 +1,1043 @@
+<setspec>  
+    <clusters>         
+        <cluster>             
+            <display>What are the only things plants must have to start photosynthesis?</display>            
+            <response>Water, Carbon dioxide, Light</response>            
+            <falseResponse>Water, Carbon dioxide, Light, Oxygen</falseResponse>            
+            <falseResponse>Water, Carbon Dioxide, Light, Oxygen, Glucose</falseResponse>            
+            <falseResponse>Carbon dioxide, Light</falseResponse>
+        </cluster>
+        <cluster>            
+            <display>Which one of these plants below is missing a requirement for photosynthesis?</display>
+            <response>Lettuce growing on the International Space Station that gets light from LED bulbs, purified water, and is in an airtight container with extra oxygen added and carbon dioxide removed.</response>
+            <falseResponse>Grasses growing in the arctic during early spring with melting snow and little sunlight.</falseResponse>            
+            <falseResponse>Corn growing in a field that is sprayed heavily with pesticides, gets full sunlight, is not fertilized, and is watered with an automated sprinkler system.</falseResponse>            
+            <falseResponse>A dwarf, GMO apple tree in fall, with partial sunlight because larger trees grow over it and occasional rain showers.</falseResponse>  
+        </cluster>
+        <cluster>          
+            <displayType>cloze</displayType>            
+            <display>What are the only things plants must have to start photosynthesis?</display>            
+            <response>(?=.*Water, Carbon dioxide, Light).*$~Correct;.*~Incorrect. The correct answer is Water, Carbon dioxide, Light</response>       
+        </cluster>
+        <cluster>
+            <displayType>cloze</displayType>            
+            <display>Which one of these plants below is missing a requirement for photosynthesis?</display>
+            <response>(?=.*lettuce).*$~Correct;.*~Incorrect. The correct answer is lettuce growing on the International Space Station that gets light from LED bulbs, purified water, and is in an airtight container with extra oxygen added and carbon dioxide removed.</response>
+        </cluster>      
+        <cluster>            
+            <display>What is the job of a plant's stomata?</display>            
+            <response>To allow carbon dioxide to be absorbed by the plant</response>            
+            <falseResponse>To allow nitrogen to be absorbed by the plant</falseResponse>            
+            <falseResponse>To allow light to be absorbed by the plant</falseResponse>            
+            <falseResponse>To allow seeds to be released by the plant</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>What would most likely harm a plant's stomata?</display>            
+            <response>Smoke from a nearby forest fire</response>            
+            <falseResponse>A gardener watering the plant</falseResponse>            
+            <falseResponse>Lack of light during the day</falseResponse>            
+            <falseResponse>Lack of bees pollinating the plant</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What is the job of a plant's stomata?</display>            
+            <response>(?=.*carbon).*$~Correct;.*~Incorrect. The correct answer is to allow carbon dioxide to be absorbed by the plant</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What would most likely harm a plant's stomata?</display>            
+            <response>(?=.*fire).*$~Correct;.*~Incorrect. The correct answer is smoke from a nearby forest fire.</response>        
+        </cluster>        
+        <cluster>            
+            <display>Photosynthesis needs what ratio of molecules to make food?</display>            
+            <response>6 carbon dioxide and 6 water</response>            
+            <falseResponse>2 carbon dioxide and 2 water</falseResponse>            
+            <falseResponse>7 oxygen and 7 glucose</falseResponse>            
+            <falseResponse>2 oxygen and 2 glucose</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>Suppose there is a greenhouse full of plants but with a decreasing amount of oxygen in the air with each passing night it's measured. Is this surprising?</display>            
+            <response>Yes, it's surprising because plants release oxygen into the air after photosynthesis</response>            
+            <falseResponse>Yes, it's surprising because plants release oxygen through their roots and into the soil after photosynthesis</falseResponse>            
+            <falseResponse>No, it's not surprising because parts of photosynthesis require oxygen.</falseResponse>            
+            <falseResponse>No, it's not surprising because when plants respire at night they take in oxygen</falseResponse>
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Photosynthesis needs what ratio of molecules to make food?</display>            
+            <response>(?=.*6).*$~Correct;.*~Incorrect. The correct answer is 6 carbon dioxide, 6 water.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Suppose there is a greenhouse full of plants but with a decreasing amount of oxygen in the air with each passing night it's measured. Is this surprising?</display>            
+            <response>(?=.*air).*$~Correct;.*~Incorrect. The correct answer is Yes, it's surprising because plants release oxygen into the air after photosynthesis</response>        
+        </cluster>
+        <cluster>            
+            <display>What is the correct arrangement in a plant cell?</display>            
+            <response>Chlorophyll are inside thylakoids, which are inside chloroplasts</response>            
+            <falseResponse>Chlorophyll are inside chloroplasts, which are inside thylakoids</falseResponse>    
+            <falseResponse>Thylakoids are inside chloroplasts, which are inside chlorophyll</falseResponse>    
+            <falseResponse>Thylakoids are inside chlorophyll, which are inside chloroplasts</falseResponse>     
+        </cluster>        
+        <cluster>            
+            <display>Why might plants stack thylakoids together like pancakes?</display>            
+            <response>To fit in more thylakoids and increase the amount of light they're exposed to</response>  
+            <falseResponse>To better repair the cell</falseResponse>            
+            <falseResponse>To make a stronger cell wall to help the stomata</falseResponse>            
+            <falseResponse>To gather more food together to feed the hungry plant cell</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What is the correct arrangement in a plant cell?</display>            
+            <response>(?=.*thylakoids, which are inside chloroplasts).*$~Correct;.*~Incorrect. The correct answer is Chlorophyll are inside thylakoids, which are inside chloroplasts.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Why might plants stack thylakoids together like pancakes?</display>            
+            <response>(?=.*fit) .*$~Correct;.*~Incorrect. The correct answer is To fit in more thylakoids and increase the amount of light they're exposed to</response>
+        </cluster>        
+        <cluster>            
+            <display>What type of light energizes chlorophyll in land plants the best?</display>            
+            <response>Red and blue</response>            
+            <falseResponse>Green</falseResponse>            
+            <falseResponse>Ultraviolet</falseResponse>            
+            <falseResponse>Blue</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>If plants on another planet are red, how may chlorophyll interact with sunlight there?</display>            
+            <response>Chlorophyll would reflect red light and absorb other colors</response>            
+            <falseResponse>Chlorophyll would absorb red light and reflect other colors</falseResponse>         
+            <falseResponse>Chlorophyll would reflect red light and not absorb or reflect other colors</falseResponse>            
+            <falseResponse>Chlorophyll would absorb red light and reflect green light</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What type of light energizes chlorophyll in land plants the best?</display>            
+            <response>(?=.*red and blue).*$~Correct;.*~Incorrect. The correct answer is Red and blue.</response>
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>If plants on another planet are red, how may chlorophyll interact with sunlight there?</display>            
+            <response>(?=.*reflect red light and absorb).*$~Correct;.*~Incorrect. The correct answer is Chlorophyll would reflect red light and absorb other colors</response>        
+        </cluster>               
+        <cluster>            
+            <display>The light reactions in a plant do what?</display>            
+            <response>Use light to make energy to fuel the dark reactions</response>            
+            <falseResponse>Use light to make glucose to fuel ATP</falseResponse>            
+            <falseResponse>Use light to make energy to fuel the light reactions</falseResponse>            
+            <falseResponse>Use the dark reactions to make ATP to fuel the light reactions</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>If you put a box over a plant that blocked out all light, which reaction would this hurt?</display>
+            <response>Both the light and dark reactions</response>            
+            <falseResponse>Only the light reactions</falseResponse>            
+            <falseResponse>Only the ultraviolet and light reactions</falseResponse>            
+            <falseResponse>Only the reactions in the air</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>The light reactions in a plant do what?</display>            
+            <response>(?=.*energy to fuel the dark reactions) .*$~Correct;.*~Incorrect. The correct answer is use light to make energy to fuel the dark reactions</response>         
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>If you put a box over a plant that blocked out all light, which reaction would this hurt?</display>
+            <response>(?=.*both) .*$~Correct;.*~Incorrect. The correct answer is both the light and dark reactions.</response>
+        </cluster>        
+        <cluster>            
+            <display>In a plant, what do the dark reactions get from the light reactions?</display>            
+            <response>Energy</response>            
+            <falseResponse>Carbon dioxide</falseResponse>            
+            <falseResponse>Light</falseResponse>            
+            <falseResponse>Glucose</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>In a plant, what would help the dark reactions work best, all things considered?</display>
+            <response>Light of day</response>            
+            <falseResponse>Darkness of night</falseResponse>            
+            <falseResponse>Shade</falseResponse>            
+            <falseResponse>Humidity</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a plant, what do the dark reactions get from the light reactions?</display>            
+            <response>(?=.*energy) .*$~Correct;.*~Incorrect. The correct answer is energy.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a plant, what would help the dark reactions work best, all things considered?</display>
+            <response>(?=.*light) .*$~Correct;.*~Incorrect. The correct answer is light of day.</response>     
+        </cluster>        
+        <cluster>            
+            <display>During the light and dark reactions of photosynthesis, what is the right chronological order of events from beginning to end?</display>            
+            <response>Light reactions -> ATP and NADPH -> Dark reactions</response>            
+            <falseResponse>Light reactions -> ATP -> Dark reactions -> NADPH</falseResponse>            
+            <falseResponse>ATP and NADPH -> Light reactions -> Dark reactions</falseResponse>            
+            <falseResponse>ATP -> Dark reactions -> Light reactions -> NADPH</falseResponse>        
+        </cluster>       
+        <cluster>            
+            <display>After the molecules ATP and NADPH arrive at the dark reactions and do their job, how much energy do they have compared to before?</display>            
+            <response>Less energy</response>            
+            <falseResponse>Twice as much energy</falseResponse>            
+            <falseResponse>Same amount of energy</falseResponse>            
+            <falseResponse>About three times as much energy</falseResponse>        
+        </cluster>         
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>During the light and dark reactions of photosynthesis, what is the right chronological order of events from beginning to end?</display>            
+            <response>(?=.*Light reactions -> ATP and NADPH) .*$~Correct;.*~Incorrect. The correct answer is light reactions -> ATP and NADPH -> dark reactions</response>
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>After the molecules ATP and NADPH arrive at the dark reactions and do their job, how much energy do they have compared to before?</display>            
+            <response>(?=.*Less) .*$~Correct;.*$~Incorrect. The correct answer is less energy.</response>        
+        </cluster>        
+        <cluster>            
+            <display>In a plant, what is carbon fixation?</display>            
+            <response>The incorporation of carbon dioxide into organic compounds like glucose</response>       
+            <falseResponse>The removal of carbon dioxide from organic compounds like glucose</falseResponse>   
+            <falseResponse>The removal of carbon dioxide from inorganic compounds like oxygen</falseResponse>  
+            <falseResponse>The incorporation of carbon dioxide into inorganic compounds like oxygen</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>What might help a plant's dark reactions to work better than normal?</display>     
+            <response>Putting the plant in a greenhouse with higher carbon dioxide in the air</response>    
+            <falseResponse>Putting the plant in a greenhouse with higher oxygen in the air</falseResponse>   
+            <falseResponse>Putting the plant in the dark during the dark reactions</falseResponse>            
+            <falseResponse>Putting the plant in the light during the dark reactions</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a plant, what is carbon fixation?</display>            
+            <response>(?=.*incorporation of carbon dioxide into organic) .*$~Correct;.*~Incorrect. The correct answer is the incorporation of carbon dioxide into organic compounds like glucose.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What might help a plant's dark reactions to work better than normal?</display>        
+            <response>(?=.*higher carbon) .*$~Correct;.*~Incorrect. The correct answer is Putting the plant in a greenhouse with higher carbon dioxide in the air</response>        
+        </cluster>        
+        <cluster>            
+            <display>In a plant's chloroplast, what happens in the stroma?</display>            
+            <response>It is where the dark reactions happen</response>            
+            <falseResponse>It is where the light reactions happen</falseResponse>            
+            <falseResponse>It is how gas enters the plant</falseResponse>            
+            <falseResponse>It is how gas exits the plant</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>In a plant's chloroplast, the stroma fluid is clear and colorless. What purpose might this serve?</display>          
+            <response>It lets light pass into the stroma and into the thylakoids within.</response>
+            <falseResponse>It magnifies light passing through the stroma and sends it into the chlorophyll cells underneath.</falseResponse>            
+            <falseResponse>It lets the plant store more nutrients in the stroma.</falseResponse>            
+            <falseResponse>It lets the plant have access to clean water whenever it's thirsty.</falseResponse>
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a plant's chloroplast, what happens in the stroma?</display>            
+            <response>(?=.*dark).*$~Correct;.*~Incorrect. The correct answer is it is where the dark reactions happen.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a plant's chloroplast, the stroma fluid is clear and colorless. What purpose might this serve?</display>
+            <response>(?=.*lets light).*$~Correct;.*~Incorrect. The correct answer is It lets light pass into the stroma and into the thylakoids within.</response>        
+        </cluster>        
+        <cluster>            
+            <display>How can plants access the energy in glucose?</display>            
+            <response>By combining glucose with oxygen</response>            
+            <falseResponse>By combining glucose with carbon dioxide</falseResponse>            
+            <falseResponse>By combining glucose with light</falseResponse>            
+            <falseResponse>By combining glucose with ATP</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>What might a plant cell run out of first because it did nothing but respiration?</display>            
+            <response>Glucose</response>            
+            <falseResponse>Carbon dioxide</falseResponse>            
+            <falseResponse>Water</falseResponse>            
+            <falseResponse>Nitrogen</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>How can plants access the energy in glucose?</display>            
+            <response>(?=.*oxygen).*$~Correct;.*~Incorrect. The correct answer is by combining glucose with oxygen.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What might a plant cell run out of because it did nothing but respiration?</display>     
+            <response>(?=.*glucose).*$~Correct;.*~Incorrect. The correct answer is glucose.</response>        
+        </cluster>        
+        <cluster>            
+            <display>In a plant, what does respiration produce?</display>            
+            <response>Energy, Carbon dioxide, Water</response>            
+            <falseResponse>Energy, Carbon dioxide, Oxygen</falseResponse>            
+            <falseResponse>Carbon dioxide, Oxygen, Water</falseResponse>            
+            <falseResponse>Carbon dioxide, Oxygen, Nitrogen</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>In a plant, what could respiration be directly used for?</display>            
+            <response>Making new leaves</response>            
+            <falseResponse>Making glucose</falseResponse>            
+            <falseResponse>Making oxygen</falseResponse>            
+            <falseResponse>Making ATP</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a plant, what does respiration produce?</display>            
+            <response>(?=.*energy, carbon dioxide, water).*$~Correct;.*~Incorrect. The correct answer is energy, carbon dioxide, water.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a plant, what could respiration be directly used for?</display>            
+            <response>(?=.*Making new leaves).*$~Correct;.*~Incorrect. The correct answer is making new leaves.</response>        
+        </cluster>        
+        <cluster>            
+            <display>What can cellulose, the building block of a plant, be made from?</display>            
+            <response>Glucose</response>            
+            <falseResponse>Starch</falseResponse>            
+            <falseResponse>Chlorophyll</falseResponse>            
+            <falseResponse>Chloroplasts</falseResponse>        
+        </cluster>
+        <cluster>            
+            <display>Can glucose be used for energy deep inside a tree trunk?</display>            
+            <response>Yes, because glucose moves through the plant, including into the trunk</response>            
+            <falseResponse>Yes, because trunk cells use photosynthesis to make glucose for themselves</falseResponse>            
+            <falseResponse>No, because glucose is solid and can't move out of the leaves</falseResponse>            
+            <falseResponse>No, because glucose is totally used up by the leaves and fruit of the plant, and not the trunk</falseResponse>       
+        </cluster>              
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What can cellulose, the building block of a plant, be made from?</display>            
+            <response>(?=.*glucose).*$~Correct;.*~Incorrect. The correct answer is glucose.</response>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Can glucose be used for energy deep inside a tree trunk?</display>            
+            <response>(?=.*including).*$~Correct;.*~Incorrect. The correct answer is yes, because glucose moves through the plant, including into the trunk.</response>        
+        </cluster>                      
+        <cluster>            
+            <display>Can starch move inside a plant?</display>            
+            <response>No, it is too insoluble</response>            
+            <falseResponse>No, it is glued in place with sap</falseResponse>            
+            <falseResponse>Yes, it dissolves easily and moves with water through the plant</falseResponse>            
+            <falseResponse>Yes, it's carried around by glucose</falseResponse>        
+        </cluster>
+        <cluster>            
+            <display>What does the starch in a plant function most like?</display>            
+            <response>A battery</response>            
+            <falseResponse>An elevator</falseResponse>            
+            <falseResponse>An oven</falseResponse>            
+            <falseResponse>A sweater</falseResponse>        
+        </cluster>             
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Can starch move inside a plant?</display>            
+            <response>(?=.*insoluble).*$~Correct;.*~Incorrect. The correct answer is no, it is too insoluble.</response>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What does the starch in a plant function most like?</display>            
+            <response>(?=.*battery).*$~Correct;.*~Incorrect. The correct answer is a a battery.</response>        
+        </cluster>        
+        <cluster>            
+            <display>Where do plants get most of their energy?</display>            
+            <response>They get their energy from glucose using photosynthesis</response>            
+            <falseResponse>They get their energy from flowers using photosynthesis</falseResponse>            
+            <falseResponse>They get their energy from cellulose using photosynthesis</falseResponse>            
+            <falseResponse>They get their energy from celluloid using photosynthesis</falseResponse>        
+        </cluster>
+        <cluster>            
+            <display>Animals and plants are part of a food chain. If you were to remove animals from that chain, what would happen?</display>            
+            <response>Plants would survive because they can turn light into food</response>            
+            <falseResponse>Most plants would die because they need wind to spread their seeds</falseResponse>            
+            <falseResponse>Most plants would die because they need decomposed animals for food</falseResponse>            
+            <falseResponse>Most plants would survive because they can eat other plants for food</falseResponse>        
+        </cluster>                
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Where do plants get most of their energy?</display>            
+            <response>((?=.*glucose).*$~Correct;.*~Incorrect. The correct answer is they get their energy from glucose using photosynthesis.</response>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Animals and plants are part of a food chain. If you were to remove animals from that chain, what would happen?</display>            
+            <response>(?=.*light).*$~Correct;.*~Incorrect. The correct answer is plants would survive because they can turn light into food.</response>        
+        </cluster>
+        <cluster>            
+            <display>Without photosynthesis, what would never exist on Earth?</display>            
+            <response>Coal</response>            
+            <falseResponse>Carbon dioxide</falseResponse>            
+            <falseResponse>Water</falseResponse>            
+            <falseResponse>Cells</falseResponse>        
+        </cluster> 
+        <cluster>            
+            <display>The first plants to exist on earth were at least as old as what?</display>
+            <response>Fossil fuels</response>            
+            <falseResponse>Fossils</falseResponse>            
+            <falseResponse>The sun</falseResponse>            
+            <falseResponse>The earth</falseResponse>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Without photosynthesis, what would never exist on Earth?</display>            
+            <response>(?=.*coal).*$~Correct;.*~Incorrect. The correct answer is coal.</response>
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>The first plants to exist on earth were at least as old as what?</display>
+            <response>(?=.*fuels).*$~Correct;.*~Incorrect. The correct answer is fossil fuels.</response>        
+        </cluster>            
+        <cluster>
+            <display>Age?</display>
+            <response>18-25</response>
+            <falseResponse>26-34</falseResponse>
+            <falseResponse>35-54</falseResponse>
+            <falseResponse>55-64</falseResponse>
+            <falseResponse>65 and over</falseResponse>
+        </cluster>
+        <cluster>
+            <display>Gender?</display>
+            <response>Male</response>
+            <falseResponse>Female</falseResponse>
+            <falseResponse>Other</falseResponse>
+            <falseResponse>Prefer not to answer</falseResponse>
+        </cluster>
+        <cluster>
+            <display>Which is the highest level of education you have completed?</display>
+            <response>Less than High School</response>
+            <falseResponse>High School or GED</falseResponse>
+            <falseResponse>Some College</falseResponse>
+            <falseResponse>4-year College Degree/ Bachelors</falseResponse>
+            <falseResponse>Graduate Degree</falseResponse>
+        </cluster>
+        <cluster>
+            <display><![CDATA[Do you now, or have you ever, worked in a profession that dealt with knowledge of the nitrogen cycle? <br><br>For example, if you have ever worked in any of the following jobs, you should select "Yes": farmer, student majoring in biology, teaching high school earth-science, etc.
+<br><br> Examples of professions that would require you to select "No" include: Mathematics teacher, Student majoring in Psychology or Political Science, US Postal Service, etc.]]></display>
+            <response>Yes</response>
+            <falseResponse>No</falseResponse>
+        </cluster>
+        <cluster>
+        <display>Plants need photosynthesis. We are trying to screen out random clicking, please choose the answer "Photosynthesis is good for the plant".</display>
+            <falseResponse>Photosynthesis is not useful to the plant</falseResponse>
+            <falseResponse>Photosynthesis is bad for the plant</falseResponse>
+            <response>Photosynthesis is good for the plant</response>
+            <falseResponse>Photosynthesis is used by many plants</falseResponse>
+        </cluster>
+        <cluster>
+        <display>Plants like lots of light. We are trying to screen out random clicking, please choose the answer "Light comes from the sun".</display>
+            <falseResponse>Plants need water and minerals</falseResponse>
+            <response>Light comes from the sun</response>
+            <falseResponse>Light is used by photosynthesis</falseResponse>
+            <falseResponse>Plants don't work as well without light</falseResponse>
+        </cluster>
+        
+<cluster>
+
+<displayType>Cloze</displayType>
+17 
+<parameter>-.00001</parameter>
+
+<display>Most __________ are autotrophs, so they can make their own food whenever they need it.</display>
+
+<response>plants</response>
+
+<parameter>-.00002</parameter>
+
+<display>Most plants are autotrophs, so they can __________ their own food whenever they need it.</display>
+
+<response>make</response>
+
+<parameter>-.00003</parameter>
+
+<display>Most plants are autotrophs, so they can make their own food __________ they need it.</display>
+
+<response>whenever</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+19 
+<parameter>-.00004</parameter>
+
+<display>__________ we go deeper into how photosynthesis works, let's sum it up.</display>
+
+<response>Before</response>
+
+<parameter>-.00005</parameter>
+
+<display>Before we go deeper into how __________ works, let's sum it up.</display>
+
+<response>photosynthesis</response>
+
+<parameter>-.00006</parameter>
+
+<display>Before we go deeper into how photosynthesis __________ let's sum it up.</display>
+
+<response>works</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+7 
+<parameter>-.00007</parameter>
+
+<display>Now that the __________ ingredients have been collected, the food can be made.</display>
+
+<response>necessary</response>
+
+<parameter>-.00008</parameter>
+
+<display>Now that the necessary __________ have been collected, the food can be made.</display>
+
+<response>ingredients</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+1 
+<parameter>-.00009</parameter>
+
+<display>Plants are __________ miniature sugar factories.</display>
+
+<response>like</response>
+
+<parameter>-.0001</parameter>
+
+<display>Plants are like miniature __________ factories.</display>
+
+<response>sugar</response>
+
+<parameter>-.00011</parameter>
+
+<display>Plants are like miniature sugar __________</display>
+
+<response>factories</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+11 
+<parameter>-.00012</parameter>
+
+<display>Inside __________ cells are tiny structures called chloroplasts.</display>
+
+<response>these</response>
+
+<parameter>-.00013</parameter>
+
+<display>Inside these __________ are tiny structures called chloroplasts.</display>
+
+<response>cells</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+21 
+<parameter>-.00014</parameter>
+
+<display>The chloroplast is __________ a small town that houses every structure needed for photosynthesis.</display>
+
+<response>like</response>
+
+<parameter>-.00015</parameter>
+
+<display>The chloroplast is like a small town that houses __________ structure needed for photosynthesis.</display>
+
+<response>every</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+4 
+<parameter>-.00016</parameter>
+
+<display>Thylakoids __________ stacked like pancakes in stacks called grana.</display>
+
+<response>are</response>
+
+<parameter>-.00017</parameter>
+
+<display>Thylakoids are __________ like pancakes in stacks called grana.</display>
+
+<response>stacked</response>
+
+<parameter>-.00018</parameter>
+
+<display>Thylakoids are stacked like pancakes in stacks called __________</display>
+
+<response>grana</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+9 
+<parameter>-.00019</parameter>
+
+<display>__________ is key to photosynthesis, so let's explain what it is.</display>
+
+<response>Chlorophyll</response>
+
+<parameter>-.0002</parameter>
+
+<display>Chlorophyll is key to __________ so let's explain what it is.</display>
+
+<response>photosynthesis</response>
+
+<parameter>-.00021</parameter>
+
+<display>Chlorophyll is key to photosynthesis, so let's __________ what it is.</display>
+
+<response>explain</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+22 
+<parameter>-.00022</parameter>
+
+<display>Chlorophyll __________ sunlight and gives leaves their green color.</display>
+
+<response>absorbs</response>
+
+<parameter>-.00023</parameter>
+
+<display>Chlorophyll absorbs sunlight and __________ leaves their green color.</display>
+
+<response>gives</response>
+
+<parameter>-.00024</parameter>
+
+<display>Chlorophyll absorbs sunlight and gives __________ their green color.</display>
+
+<response>leaves</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+3 
+<parameter>-.00025</parameter>
+
+<display>Chlorophyll absorbs some of __________ wavelengths within the visible light spectrum, such as red (long wavelength) and blue (short wavelength) light.</display>
+
+<response>these</response>
+
+<parameter>-.00026</parameter>
+
+<display>Chlorophyll absorbs some of these __________ within the visible light spectrum, such as red (long wavelength) and blue (short wavelength) light.</display>
+
+<response>wavelengths</response>
+
+<parameter>-.00027</parameter>
+
+<display>Chlorophyll absorbs some of these wavelengths __________ the visible light spectrum, such as red (long wavelength) and blue (short wavelength) light.</display>
+
+<response>within</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+13 
+<parameter>-.00028</parameter>
+
+<display>The first process is the light __________ which requires the direct energy of light to make energy molecules for the second process, the dark reactions.</display>
+
+<response>reactions</response>
+
+<parameter>-.00029</parameter>
+
+<display>The first process is the light reactions, which __________ the direct energy of light to make energy molecules for the second process, the dark reactions.</display>
+
+<response>requires</response>
+
+<parameter>-.0003</parameter>
+
+<display>The first process is the light reactions, which requires the direct energy of __________ to make energy molecules for the second process, the dark reactions.</display>
+
+<response>light</response>
+
+<parameter>-.00031</parameter>
+
+<display>The first process is the light reactions, which requires the direct energy of light to make energy __________ for the second process, the dark reactions.</display>
+
+<response>molecules</response>
+
+<parameter>-.00032</parameter>
+
+<display>The first process is the light reactions, which requires the direct energy of light to make energy molecules for the second process, the __________ reactions.</display>
+
+<response>dark</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+15 
+<parameter>-.00033</parameter>
+
+<display>ATP and NADPH __________ molecules which carry energy to the dark reactions.</display>
+
+<response>are</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+18 
+<parameter>-.00034</parameter>
+
+<display>__________ is split into hydrogen and oxygen ions in the process, releasing oxygen as a by-product of the reaction.</display>
+
+<response>Water</response>
+
+<parameter>-.00035</parameter>
+
+<display>Water is split __________ hydrogen and oxygen ions in the process, releasing oxygen as a by-product of the reaction.</display>
+
+<response>into</response>
+
+<parameter>-.00036</parameter>
+
+<display>Water is split into __________ and oxygen ions in the process, releasing oxygen as a by-product of the reaction.</display>
+
+<response>hydrogen</response>
+
+<parameter>-.00037</parameter>
+
+<display>Water is split into hydrogen and __________ ions in the process, releasing oxygen as a by-product of the reaction.</display>
+
+<response>oxygen</response>
+
+<parameter>-.00038</parameter>
+
+<display>Water is split into hydrogen and oxygen ions in the process, __________ oxygen as a by-product of the reaction.</display>
+
+<response>releasing</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+2 
+<parameter>-.00039</parameter>
+
+<display>In the dark __________ carbon dioxide from the atmosphere is captured.</display>
+
+<response>reactions</response>
+
+<parameter>-.0004</parameter>
+
+<display>In the dark reactions, __________ dioxide from the atmosphere is captured.</display>
+
+<response>carbon</response>
+
+<parameter>-.00041</parameter>
+
+<display>In the dark reactions, carbon __________ from the atmosphere is captured.</display>
+
+<response>dioxide</response>
+
+<parameter>-.00042</parameter>
+
+<display>In the dark reactions, carbon dioxide __________ the atmosphere is captured.</display>
+
+<response>from</response>
+
+<parameter>-.00043</parameter>
+
+<display>In the dark reactions, carbon dioxide from the atmosphere is __________</display>
+
+<response>captured</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+0 
+<parameter>-.00044</parameter>
+
+<display>The carbon dioxide is combined with hydrogen to form __________ using the energy made from the light reactions.</display>
+
+<response>glucose</response>
+
+<parameter>-.00045</parameter>
+
+<display>The carbon dioxide is combined with hydrogen to form glucose __________ the energy made from the light reactions.</display>
+
+<response>using</response>
+
+<parameter>-.00046</parameter>
+
+<display>The carbon dioxide is combined with hydrogen to form glucose using the __________ made from the light reactions.</display>
+
+<response>energy</response>
+
+<parameter>-.00047</parameter>
+
+<display>The carbon dioxide is combined with hydrogen to form glucose using the energy made __________ the light reactions.</display>
+
+<response>from</response>
+
+<parameter>-.00048</parameter>
+
+<display>The carbon dioxide is combined with hydrogen to form glucose using the energy made from the light __________</display>
+
+<response>reactions</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+6 
+<parameter>-.00049</parameter>
+
+<display>The incorporation of carbon __________ into organic compounds is known as carbon fixation.</display>
+
+<response>dioxide</response>
+
+<parameter>-.0005</parameter>
+
+<display>The incorporation of carbon dioxide __________ organic compounds is known as carbon fixation.</display>
+
+<response>into</response>
+
+<parameter>-.00051</parameter>
+
+<display>The incorporation of carbon dioxide into organic compounds is known as carbon __________</display>
+
+<response>fixation</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+23 
+<parameter>-.00052</parameter>
+
+<display>Plants __________ that energy by breaking down some of the glucose in a process called respiration.</display>
+
+<response>access</response>
+
+<parameter>-.00053</parameter>
+
+<display>Plants access that energy by breaking down some of the glucose in a process called __________</display>
+
+<response>respiration</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+16 
+<parameter>-.00054</parameter>
+
+<display>In respiration, oxygen combines with glucose to produce energy, carbon __________ and water.</display>
+
+<response>dioxide</response>
+
+<parameter>-.00055</parameter>
+
+<display>In respiration, oxygen combines with glucose to produce energy, carbon dioxide, and __________</display>
+
+<response>water</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+10 
+<parameter>-.00056</parameter>
+
+<display>At __________ oxygen is taken in and carbon dioxide is given out.</display>
+
+<response>night</response>
+
+<parameter>-.00057</parameter>
+
+<display>At night, oxygen is taken in and carbon dioxide is __________ out.</display>
+
+<response>given</response>
+
+<parameter>-.00058</parameter>
+
+<display>At night, oxygen is taken in and carbon dioxide is given __________</display>
+
+<response>out</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+12 
+<parameter>-.00059</parameter>
+
+<display>__________ glucose is converted into building blocks like cellulose that make up the plant's body.</display>
+
+<response>Most</response>
+
+<parameter>-.0006</parameter>
+
+<display>Most glucose is converted __________ building blocks like cellulose that make up the plant's body.</display>
+
+<response>into</response>
+
+<parameter>-.00061</parameter>
+
+<display>Most glucose is converted into building blocks like cellulose __________ make up the plant's body.</display>
+
+<response>that</response>
+
+<parameter>-.00062</parameter>
+
+<display>Most glucose is converted into building blocks like cellulose that make up the __________ body.</display>
+
+<response>plants</response>
+
+<parameter>-.00063</parameter>
+
+<display>Most glucose is converted into building blocks like cellulose that make up the plant's __________</display>
+
+<response>body</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+20 
+<parameter>-.00064</parameter>
+
+<display>__________ some glucose is also converted to insoluble starch, which stays inside cells.</display>
+
+<response>But</response>
+
+<parameter>-.00065</parameter>
+
+<display>But __________ glucose is also converted to insoluble starch, which stays inside cells.</display>
+
+<response>some</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+14 
+<parameter>-.00066</parameter>
+
+<display>Some of the __________ that plants produce during photosynthesis is stored in fruits and roots.</display>
+
+<response>glucose</response>
+
+<parameter>-.00067</parameter>
+
+<display>Some of the glucose that plants produce during photosynthesis is stored in fruits and __________</display>
+
+<response>roots</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+8 
+<parameter>-.00068</parameter>
+
+<display>Oxygen that is __________ during photosynthesis is released into the atmosphere.</display>
+
+<response>produced</response>
+
+<parameter>-.00069</parameter>
+
+<display>Oxygen that is produced during photosynthesis is __________ into the atmosphere.</display>
+
+<response>released</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+5 
+<parameter>-.0007</parameter>
+
+<display>Those __________ and plants got their energy from photosynthesis, which means photosynthesis helped make fossil fuels.</display>
+
+<response>animals</response>
+
+<parameter>-.00071</parameter>
+
+<display>Those animals and __________ got their energy from photosynthesis, which means photosynthesis helped make fossil fuels.</display>
+
+<response>plants</response>
+
+<parameter>-.00072</parameter>
+
+<display>Those animals and plants got __________ energy from photosynthesis, which means photosynthesis helped make fossil fuels.</display>
+
+<response>their</response>
+
+<parameter>-.00073</parameter>
+
+<display>Those animals and plants got their energy from __________ which means photosynthesis helped make fossil fuels.</display>
+
+<response>photosynthesis</response>
+
+<parameter>-.00074</parameter>
+
+<display>Those animals and plants got their energy from photosynthesis, which means photosynthesis helped __________ fossil fuels.</display>
+
+<response>make</response>
+
+</cluster>
+        
+     </clusters>      
+ </setspec>

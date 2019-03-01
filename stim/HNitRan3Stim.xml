@@ -1,0 +1,1009 @@
+<setspec>  
+    <clusters>         
+        <cluster>            
+            <display>What percent of the air is nitrogen gas?</display>            
+            <response>78%</response>            
+            <falseResponse>70%</falseResponse>            
+            <falseResponse>82%</falseResponse>            
+            <falseResponse>20%</falseResponse>
+        </cluster>
+        <cluster>            
+            <display>The majority of air you breathe in on the planet's surface is what gas?</display>            
+            <response>Nitrogen</response>            
+            <falseResponse>Oxygen</falseResponse>            
+            <falseResponse>Carbon Monoxide</falseResponse>            
+            <falseResponse>Carbon Dioxide</falseResponse>  
+        </cluster>
+        <cluster>          
+            <displayType>cloze</displayType>            
+            <display>What percent of the air is nitrogen gas?</display>            
+            <response>(?=.*78%).*$~Correct;.*~Incorrect. The correct answer is 78%.</response>       
+        </cluster>
+        <cluster>
+            <displayType>cloze</displayType>            
+            <display>The majority of air you breathe in on the planet's surface is what gas?</display>            
+            <response>(?=.*Nitrogen).*$~Correct;.*~Incorrect. The correct answer is Nitrogen.</response>
+        </cluster>      
+        <cluster>            
+            <display>What makes nitrogen gas so hard for nature to use?</display>            
+            <response>A strong chemical bond connects the atoms</response>            
+            <falseResponse>The gas is too high up in the atmosphere</falseResponse>            
+            <falseResponse>Nature has no use for an inert element like nitrogen</falseResponse>            
+            <falseResponse>The chemical bond between atoms is too volatile</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>Where would you expect to find the most nitrogen that hadn't been chemically changed?</display>
+            <response>The atmosphere</response>            
+            <falseResponse>The ocean</falseResponse>            
+            <falseResponse>Soil</falseResponse>            
+            <falseResponse>Farmlands</falseResponse>       
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What makes nitrogen gas so hard for nature to use?</display>            
+            <response>(?=.*connects).*$~Correct;.*~Incorrect. The correct answer is a strong chemical bond connects the atoms.</response>
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Where would you expect to find the most nitrogen that hadn't been chemically changed?</display>
+            <response>(?=.*atmosphere).*$~Correct;.*~Incorrect. The correct answer is the atmosphere.</response>        
+        </cluster>        
+        <cluster>            
+            <display>What happens during nitrogen transformation?</display>            
+            <response>Nitrogen chemically changes</response>            
+            <falseResponse>Nitrogen escapes into space</falseResponse>            
+            <falseResponse>The bond between nitrogen atoms strengthens</falseResponse>            
+            <falseResponse>Nitrogen is changed and incorporated into an organism</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>Which of the following is not an example of nitrogen transformation?</display>            
+            <response>Nitrate in soil that washes into the river and mixes with water</response>            
+            <falseResponse>Nitrogen fertilizer that is used by a plant</falseResponse>            
+            <falseResponse>Bacteria decomposing a dead plant into ammonia</falseResponse>            
+            <falseResponse>Fungi decomposing a dead log into ammonium</falseResponse>
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What happens during nitrogen transformation?</display>            
+            <response>(?=.*chemically).*$~Correct;.*~Incorrect. The correct answer is nitrogen chemically changes.</response>
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Where would you expect to find the most nitrogen that hadn't been chemically changed?</display>            
+            <response>(?=.*river).*$~Correct;.*~Incorrect. The correct answer is Nitrate in soil that washes into the river and mixes with water.</response>        
+        </cluster>        
+        <cluster>            
+            <display>How do nitrogen-fixers change nitrogen to form a new, usable compound?</display>            
+            <response>They combine nitrogen with another element</response>            
+            <falseResponse>They force apart the bond between nitrogen atoms</falseResponse>            
+            <falseResponse>They give nitrogen a positive charge</falseResponse>            
+            <falseResponse>They fix nitrogen to clay particles in the soil</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>Where would you least expect nitrogen-fixing bacteria to thrive?</display>            
+            <response>In a sealed jar with 100% nitrogen in the air and soil from outside</response>            
+            <falseResponse>In a sealed jar with 50% nitrogen and 50% oxygen in the air and soil from outside</falseResponse>            
+            <falseResponse>In a sealed jar with the same air and soil from outside and refrigerated each night </falseResponse>            
+            <falseResponse>In a sealed jar with 30% nitrogen, 30% oxygen, and 40% water vapor and soil from outside</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>How do nitrogen-fixers change nitrogen to form a new, usable compound?</display>            
+            <response>(?=.*combine).*$~Correct;.*~Incorrect. The correct answer is they combine nitrogen with another element.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Where would you least expect nitrogen-fixing bacteria to thrive?</display>            
+            <response>(?=.*100%).*$~Correct;.*~Incorrect. The correct answer is in a sealed jar with 100% nitrogen in the air and soil from outside</response>        
+        </cluster>        
+        <cluster>            
+            <display>In nitrogen fixation bacteria can convert nitrogen gas to what?</display>            
+            <response>Ammonium</response>            
+            <falseResponse>Nitrous Oxide</falseResponse>            
+            <falseResponse>Oxygen</falseResponse>            
+            <falseResponse>Nitric acid</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>Where in the soil should nitrogen-fixing bacteria be the most common?</display>            
+            <response>The topsoil, 0-6 inches deep</response>            
+            <falseResponse>The subsoil, 6-12 inches deep</falseResponse>            
+            <falseResponse>The substratum, 1-2 feet deep</falseResponse>            
+            <falseResponse>Deeper than the substratum, 2+ feet deep</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In nitrogen fixation bacteria can convert nitrogen gas to what?</display>            
+            <response>(?=.*ammonium).*$~Correct;.*~Incorrect. The correct answer is ammonium.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Where in the soil should nitrogen-fixing bacteria be the most common?</display>            
+            <response>(?=.*topsoil) .*$~Correct;.*~Incorrect. The correct answer is the topsoil, 0-6 inches deep.</response>
+        </cluster>        
+        <cluster>            
+            <display>What natural event can fixate nitrogen?</display>            
+            <response>Lightning</response>            
+            <falseResponse>A tornado</falseResponse>            
+            <falseResponse>A blizzard</falseResponse>            
+            <falseResponse>Rain</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>What type of natural event can fixate nitrogen?</display>            
+            <response>A high energy event that breaks the chemical bond of nitrogen</response>            
+            <falseResponse>A high energy event that preserves the chemical bond of nitrogen</falseResponse>            
+            <falseResponse>An event so cold it freezes nitrogen out of the air</falseResponse>            
+            <falseResponse>Natural events can't fixate nitrogen</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What natural event can fixate nitrogen?</display>            
+            <response>(?=.*lightning) .*$~Correct;.*~Incorrect. The correct answer is lightning.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What type of natural event can fixate nitrogen?</display>            
+            <response>(?=.*breaks) .*$~Correct;.*~Incorrect. The correct answer is a high energy event that breaks the chemical bond of nitrogen.</response>        
+        </cluster>        
+        <cluster>            
+            <display>Which one of these human activities does not fix nitrogen?</display>            
+            <response>Pumping sewage into a river</response>            
+            <falseResponse>Burning fossil fuels</falseResponse>            
+            <falseResponse>Making nitrogen fertilizers</falseResponse>            
+            <falseResponse>Growing legumes</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>If humans were to disappear, how would this affect nitrogen levels in the soil?</display>            
+            <response>They would stop rising</response>            
+            <falseResponse>They would keep rising</falseResponse>            
+            <falseResponse>They would stop falling</falseResponse>            
+            <falseResponse>They would keep falling</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Which one of these human activities does not fix nitrogen?</display>            
+            <response>(?=.*sewage) .*$~Correct;.*~Incorrect. The correct answer is pumping sewage into a river.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>If humans were to disappear, how would this affect nitrogen levels in the soil?</display>            
+            <response>(?=.*stop rising) .*$~Correct;.*~Incorrect. The correct answer is they would stop rising.</response>        
+        </cluster>        
+        <cluster>            
+            <display>Humans introduce excess nitrogen into rivers by doing what?</display>            
+            <response>Growing crops with fertilizer</response>            
+            <falseResponse>Improper disposal and dumping of heavy metals</falseResponse>            
+            <falseResponse>Overfishing</falseResponse>            
+            <falseResponse>Cleaning water at water treatment plants</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>If you wanted to fix a dead zone in the ocean by reducing the algae in the area, how might you do this?</display>            
+            <response>Reduce the nitrogen going into the ocean</response>            
+            <falseResponse>Reduce the humans in the area</falseResponse>            
+            <falseResponse>Increase the fish population because they feed on the algae</falseResponse>            
+            <falseResponse>Increase the nitrogen going into the ocean</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Humans introduce excess nitrogen into rivers by doing what?</display>            
+            <response>(?=.*growing) .*$~Correct;.*~Incorrect. The correct answer is growing crops with fertilizer.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>If you wanted to fix a dead zone in the ocean by reducing the algae in the area, how might you do this?</display>            
+            <response>(?=.*reduce the nitrogen) .*$~Correct;.*$~Incorrect. The correct answer is reduce the nitrogen going into the ocean.</response>        
+        </cluster>        
+        <cluster>            
+            <display>What is nitrogen uptake?</display>            
+            <response>When plant roots bring fixed nitrogen, like ammonium, into the plant body</response>            
+            <falseResponse>The removal of fixed nitrogen, like ammonium, from a plant</falseResponse>            
+            <falseResponse>The return of nitrogen from the soil back to the atmosphere</falseResponse>            
+            <falseResponse>When nitrogen gas is taken up and absorbed from the air by leaves of certain tall trees</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>If plants could fix and use nitrogen directly from the air, what might they not need?</display>     
+            <response>Bacteria</response>            
+            <falseResponse>Roots</falseResponse>            
+            <falseResponse>Water</falseResponse>            
+            <falseResponse>Sunlight</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What is nitrogen uptake?</display>            
+            <response>(?=.*bring) .*$~Correct;.*~Incorrect. The correct answer is when plant roots bring fixed nitrogen, like ammonium, into the plant body.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>If plants could fix and use nitrogen directly from the air, what might they not need?</display>        
+            <response>(?=.*bacteria) .*$~Correct;.*~Incorrect. The correct answer is bacteria.</response>        
+        </cluster>        
+        <cluster>            
+            <display>Legumes can form a symbiotic relationship with what?</display>            
+            <response>Bacteria</response>            
+            <falseResponse>Nitrogen</falseResponse>            
+            <falseResponse>Soil</falseResponse>            
+            <falseResponse>Bees</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>What crop would be hurt most if it were grown in sterile soil with enough water, sun, and potassium?</display>          
+            <response>Peas</response>
+            <falseResponse>Tomatoes</falseResponse>            
+            <falseResponse>Corn</falseResponse>            
+            <falseResponse>Pumpkins</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Legumes can form a symbiotic relationship with what?</display>            
+            <response>(?=.*bacteria).*$~Correct;.*~Incorrect. The correct answer is bacteria.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What crop would be hurt most if it were grown in sterile soil with enough water, sun, and potassium?</display>
+            <response>(?=.*peas).*$~Correct;.*~Incorrect. The correct answer is peas.</response>        
+        </cluster>        
+        <cluster>            
+            <display>What can change inorganic nitrogen to organic?</display>            
+            <response>A tomato plant</response>            
+            <falseResponse>Denitrifying bacteria</falseResponse>            
+            <falseResponse>Nitrifying bacteria</falseResponse>            
+            <falseResponse>A decaying log</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>Generally, why can't plants use other living plants as food?</display>            
+            <response>Plants can't use organic nitrogen, like stems and roots, as food</response>            
+            <falseResponse>Plants can't use inorganic nitrogen, like stems and roots, as food</falseResponse>            
+            <falseResponse>Plants can't use organic nitrogen, like ammonium, as food</falseResponse>            
+            <falseResponse>Plants can't use inorganic nitrogen, like ammonium, as food</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What can change inorganic nitrogen to organic?</display>            
+            <response>(?=.*tomato).*$~Correct;.*~Incorrect. The correct answer is a tomato plant.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Generally, why can't plants use other living plants as food?</display>            
+            <response>(?=.*organic nitrogen, like stems).*$~Correct;.*~Incorrect. The correct answer is plants can't use organic nitrogen, like stems and roots, as food.</response>        
+        </cluster>        
+        <cluster>            
+            <display>How does nitrogen mineralization return organic nitrogen to the environment?</display>            
+            <response>A plant or animal dies, decomposes, and its nitrogen becomes ammonium to be reused in the soil</response>            
+            <falseResponse>A plant absorbs nitrogen from minerals in the soil and uses it to make and release seeds</falseResponse>            <falseResponse>Fossils of dead plants release their nitrogen back into the soil as nitrate over thousands of years</falseResponse>            
+            <falseResponse>Rocks and minerals absorb nitrogen from the air and leach it in the soil</falseResponse>        
+        </cluster>        
+        <cluster>            
+            <display>Where are you most likely to find nitrogen mineralization?</display>            
+            <response>A landfill</response>            
+            <falseResponse>On a rock</falseResponse>            
+            <falseResponse>The atmosphere</falseResponse>            
+            <falseResponse>Inside a plant</falseResponse>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>How does nitrogen mineralization return organic nitrogen to the environment?</display>            
+            <response>(?=.*decomposes).*$~Correct;.*~Incorrect. The correct answer is a plant or animal dies, decomposes, and its nitrogen becomes ammonium to be reused in the soil.</response>        
+        </cluster>        
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Where are you most likely to find nitrogen mineralization?</display>            
+            <response>(?=.*landfill).*$~Correct;.*~Incorrect. The correct answer is a landfill.</response>        
+        </cluster>        
+        <cluster>            
+            <display>What does nitrification turn ammonium into?</display>            
+            <response>Nitrate</response>            
+            <falseResponse>Nitrous oxide</falseResponse>            
+            <falseResponse>Nitrogen gas</falseResponse>            
+            <falseResponse>Oxygen</falseResponse>        
+        </cluster>
+        <cluster>            
+            <display>Where would you expect the least nitrification to happen?</display>            
+            <response>An ocean dead zone</response>            
+            <falseResponse>A high-altitude forest</falseResponse>            
+            <falseResponse>On a farm</falseResponse>            
+            <falseResponse>The topsoil</falseResponse>        
+        </cluster>              
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What does nitrification turn ammonium into?</display>            
+            <response>(?=.*nitrate).*$~Correct;.*~Incorrect. The correct answer is nitrate.</response>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>Where would you expect the least nitrification to happen?</display>            
+            <response>(?=.*zone).*$~Correct;.*~Incorrect. The correct answer is an ocean dead zone.</response>        
+        </cluster>                      
+        <cluster>            
+            <display>What's the most important way nitrate moves around the environment?</display>            
+            <response>It's carried by water</response>            
+            <falseResponse>It's eaten by bacteria and moves with them</falseResponse>            
+            <falseResponse>It's eaten by animals and moves with them</falseResponse>            
+            <falseResponse>It evaporates and moves through the air</falseResponse>        
+        </cluster>
+        <cluster>            
+            <display>What could help cause a buildup of nitrate in soil?</display>            
+            <response>A drought</response>            
+            <falseResponse>Too many bees</falseResponse>            
+            <falseResponse>Smog</falseResponse>            
+            <falseResponse>Heavy rains</falseResponse>        
+        </cluster>             
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What's the most important way nitrate moves around the environment?</display>            
+            <response>(?=.*water).*$~Correct;.*~Incorrect. The correct answer is it's carried by water.</response>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What could help cause a buildup of nitrate in soil?</display>            
+            <response>(?=.*drought).*$~Correct;.*~Incorrect. The correct answer is a drought.</response>        
+        </cluster>        
+        <cluster>            
+            <display>What do denitrifying bacteria turn nitrate into?</display>            
+            <response>Nitrogen gas</response>            
+            <falseResponse>Ammonium</falseResponse>            
+            <falseResponse>Legumes</falseResponse>            
+            <falseResponse>Salt</falseResponse>        
+        </cluster>
+        <cluster>            
+            <display>If denitrification were damaging crops on a farm, what might a farmer do to stop the denitrification?</display>            
+            <response>Drain pools of water on and below the surface</response>            
+            <falseResponse>Use a nitrogen fertilizer on their crops</falseResponse>            
+            <falseResponse>Encourage the growth of bacteria in the soil that can change the nitrate to gas</falseResponse>            
+            <falseResponse>Spray pesticides on their crops</falseResponse>        
+        </cluster>                
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>What do denitrifying bacteria turn nitrate into?</display>            
+            <response>((?=.*gas).*$~Correct;.*~Incorrect. The correct answer is nitrogen gas.</response>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>If denitrification were damaging crops on a farm, what might a farmer do to stop the denitrification?</display>            
+            <response>(?=.*drain).*$~Correct;.*~Incorrect. The correct answer is drain pools of water on and below the surface.</response>        
+        </cluster>
+        <cluster>            
+            <display>How might humans use denitrification?</display>            
+            <response>To remove nitrate from water</response>            
+            <falseResponse>To remove nitrate from the air</falseResponse>            
+            <falseResponse>To add nitrate to water</falseResponse>            
+            <falseResponse>To add nitrate to the air</falseResponse>        
+        </cluster> 
+        <cluster>            
+            <display>In a water treatment plant, what's most likely to mess up the removal of nitrates from water?</display>
+            <response>Antibiotics put in the water</response>            
+            <falseResponse>Pesticides put in the water</falseResponse>            
+            <falseResponse>Not enough light</falseResponse>            
+            <falseResponse>The water treatment plant being located next to a slow flowing river</falseResponse>        
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>How might humans use denitrification?</display>            
+            <response>(?=.*to remove nitrate from water).*$~Correct;.*~Incorrect. The correct answer is to remove nitrate from water.</response>
+        </cluster>
+        <cluster>             
+            <displayType>cloze</displayType>            
+            <display>In a water treatment plant, what's most likely to mess up the removal of nitrates from water?</display>
+            <response>(?=.*antibiotics).*$~Correct;.*~Incorrect. The correct answer is antibiotics put in the water.</response>        
+        </cluster>            
+        <cluster>
+            <display>Age?</display>
+            <response>18-25</response>
+            <falseResponse>26-34</falseResponse>
+            <falseResponse>35-54</falseResponse>
+            <falseResponse>55-64</falseResponse>
+            <falseResponse>65 and over</falseResponse>
+        </cluster>
+        <cluster>
+            <display>Gender?</display>
+            <response>Male</response>
+            <falseResponse>Female</falseResponse>
+            <falseResponse>Other</falseResponse>
+            <falseResponse>Prefer not to answer</falseResponse>
+        </cluster>
+        <cluster>
+            <display>Which is the highest level of education you have completed?</display>
+            <response>Less than High School</response>
+            <falseResponse>High School or GED</falseResponse>
+            <falseResponse>Some College</falseResponse>
+            <falseResponse>4-year College Degree/ Bachelors</falseResponse>
+            <falseResponse>Graduate Degree</falseResponse>
+        </cluster>
+        <cluster>
+            <display><![CDATA[Do you now, or have you ever, worked in a profession that dealt with knowledge of the nitrogen cycle? <br><br>For example, if you have ever worked in any of the following jobs, you should select "Yes": farmer, student majoring in biology, teaching high school earth-science, etc.
+<br><br> Examples of professions that would require you to select "No" include: Mathematics teacher, Student majoring in Psychology or Political Science, US Postal Service, etc.]]></display>
+            <response>Yes</response>
+            <falseResponse>No</falseResponse>
+        </cluster>
+        <cluster>
+<display>Nitrogen is an important element. We are trying to screen out random clicking, please choose the answer "Nitrogen is very useful".</display>
+            <falseResponse>Nitrogen is in the air</falseResponse>
+            <falseResponse>Nitrogen is not an element</falseResponse>
+            <response>Nitrogen is very useful</response>
+            <falseResponse>Nitrogen is a heavy molecule</falseResponse>
+        </cluster>
+        <cluster>
+        <display>Nitrogen is in the air, dirt, and ocean. We are trying to screen out random clicking, please choose the answer "Nitrogen is in many ecosystems".</display>
+            <falseResponse>Nitrogen is only in the air</falseResponse>
+            <response>Nitrogen is in many ecosystems</response>
+            <falseResponse>Nitrogen is only in dirt</falseResponse>
+            <falseResponse>Nitrogen is only in the ocean</falseResponse>
+        </cluster>
+-
+<cluster>
+
+<displayType>Cloze</displayType>
+12 
+<parameter>-.00001</parameter>
+
+<display>It __________ in many different chemical states.</display>
+
+<response>comes</response>
+
+<parameter>-.00002</parameter>
+
+<display>It comes in many __________ chemical states.</display>
+
+<response>different</response>
+
+<parameter>-.00003</parameter>
+
+<display>It comes in many different __________ states.</display>
+
+<response>chemical</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+9 
+<parameter>-.00004</parameter>
+
+<display>It can move through air, soil, and __________</display>
+
+<response>water</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+4 
+<parameter>-.00005</parameter>
+
+<display>Nitrogen is a building __________ of life.</display>
+
+<response>block</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+16 
+<parameter>-.00006</parameter>
+
+<display>Most __________ can't use this atmospheric nitrogen because they can't break that bond.</display>
+
+<response>plants</response>
+
+<parameter>-.00007</parameter>
+
+<display>Most plants can't use this atmospheric nitrogen because __________ can't break that bond.</display>
+
+<response>they</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+24 
+<parameter>-.00008</parameter>
+
+<display>__________ cycles through ecosystems in five steps.</display>
+
+<response>Nitrogen</response>
+
+<parameter>-.00009</parameter>
+
+<display>Nitrogen cycles through __________ in five steps.</display>
+
+<response>ecosystems</response>
+
+<parameter>-.0001</parameter>
+
+<display>Nitrogen cycles through ecosystems in five __________</display>
+
+<response>steps</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+8 
+<parameter>-.00011</parameter>
+
+<display>These organisms are __________ nitrogen-fixers and are usually bacteria.</display>
+
+<response>called</response>
+
+<parameter>-.00012</parameter>
+
+<display>These organisms are called __________ and are usually bacteria.</display>
+
+<response>nitrogen-fixers</response>
+
+<parameter>-.00013</parameter>
+
+<display>These organisms are called nitrogen-fixers and are usually __________</display>
+
+<response>bacteria</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+20 
+<parameter>-.00014</parameter>
+
+<display>They don't break the __________ chemical bond of nitrogen directly.</display>
+
+<response>strong</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+17 
+<parameter>-.00015</parameter>
+
+<display>Natural events like __________ and lava flows also fix a little nitrogen by breaking the bonds of nitrogen atoms.</display>
+
+<response>lightning</response>
+
+<parameter>-.00016</parameter>
+
+<display>Natural events like lightning and lava flows __________ fix a little nitrogen by breaking the bonds of nitrogen atoms.</display>
+
+<response>also</response>
+
+<parameter>-.00017</parameter>
+
+<display>Natural events like lightning and lava flows also fix a little __________ by breaking the bonds of nitrogen atoms.</display>
+
+<response>nitrogen</response>
+
+<parameter>-.00018</parameter>
+
+<display>Natural events like lightning and lava flows also fix a little nitrogen by __________ the bonds of nitrogen atoms.</display>
+
+<response>breaking</response>
+
+<parameter>-.00019</parameter>
+
+<display>Natural events like lightning and lava flows also fix a little nitrogen by breaking the __________ of nitrogen atoms.</display>
+
+<response>bonds</response>
+
+<parameter>-.0002</parameter>
+
+<display>Natural events like lightning and lava flows also fix a little nitrogen by breaking the bonds of nitrogen __________</display>
+
+<response>atoms</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+13 
+<parameter>-.00021</parameter>
+
+<display>Once __________ the nitrogen can combine and form other compounds.</display>
+
+<response>free</response>
+
+<parameter>-.00022</parameter>
+
+<display>Once free, the nitrogen __________ combine and form other compounds.</display>
+
+<response>can</response>
+
+<parameter>-.00023</parameter>
+
+<display>Once free, the nitrogen can __________ and form other compounds.</display>
+
+<response>combine</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+11 
+<parameter>-.00024</parameter>
+
+<display>Thus, humans __________ more than doubled the fixed nitrogen put into the biosphere every year.</display>
+
+<response>have</response>
+
+<parameter>-.00025</parameter>
+
+<display>Thus, humans have more than doubled the __________ nitrogen put into the biosphere every year.</display>
+
+<response>fixed</response>
+
+<parameter>-.00026</parameter>
+
+<display>Thus, humans have more than doubled the fixed nitrogen put __________ the biosphere every year.</display>
+
+<response>into</response>
+
+<parameter>-.00027</parameter>
+
+<display>Thus, humans have more than doubled the fixed nitrogen put into the biosphere every __________</display>
+
+<response>year</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+1 
+<parameter>-.00028</parameter>
+
+<display>__________ nitrogen with hydrogen makes fertilizer.</display>
+
+<response>Combining</response>
+
+<parameter>-.00029</parameter>
+
+<display>Combining __________ with hydrogen makes fertilizer.</display>
+
+<response>nitrogen</response>
+
+<parameter>-.0003</parameter>
+
+<display>Combining nitrogen with hydrogen __________ fertilizer.</display>
+
+<response>makes</response>
+
+<parameter>-.00031</parameter>
+
+<display>Combining nitrogen with hydrogen makes __________</display>
+
+<response>fertilizer</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+18 
+<parameter>-.00032</parameter>
+
+<display>But __________ nitrogen has led to excess nitrogen running into rivers.</display>
+
+<response>overusing</response>
+
+<parameter>-.00033</parameter>
+
+<display>But overusing nitrogen has __________ to excess nitrogen running into rivers.</display>
+
+<response>led</response>
+
+<parameter>-.00034</parameter>
+
+<display>But overusing nitrogen has led to __________ nitrogen running into rivers.</display>
+
+<response>excess</response>
+
+<parameter>-.00035</parameter>
+
+<display>But overusing nitrogen has led to excess __________ running into rivers.</display>
+
+<response>nitrogen</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+10 
+<parameter>-.00036</parameter>
+
+<display>The rivers take the nitrogen into the ocean __________ algae feed on it.</display>
+
+<response>where</response>
+
+<parameter>-.00037</parameter>
+
+<display>The rivers take the nitrogen into the ocean where __________ feed on it.</display>
+
+<response>algae</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+6 
+<parameter>-.00038</parameter>
+
+<display>__________ absorb this with their roots.</display>
+
+<response>Plants</response>
+
+<parameter>-.00039</parameter>
+
+<display>Plants absorb this __________ their roots.</display>
+
+<response>with</response>
+
+<parameter>-.0004</parameter>
+
+<display>Plants absorb this with their __________</display>
+
+<response>roots</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+7 
+<parameter>-.00041</parameter>
+
+<display>The __________ provides food and a home.</display>
+
+<response>plant</response>
+
+<parameter>-.00042</parameter>
+
+<display>The plant provides __________ and a home.</display>
+
+<response>food</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+14 
+<parameter>-.00043</parameter>
+
+<display>Plants can __________ inorganic nitrogen (ammonium).</display>
+
+<response>eat</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+19 
+<parameter>-.00044</parameter>
+
+<display>One example is a mushroom growing on a __________ log.</display>
+
+<response>dead</response>
+
+<parameter>-.00045</parameter>
+
+<display>One example is a mushroom growing on a dead __________</display>
+
+<response>log</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+21 
+<parameter>-.00046</parameter>
+
+<display>Organic nitrogen in the log's wood is turned back to an inorganic __________ like ammonium.</display>
+
+<response>form</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+2 
+<parameter>-.00047</parameter>
+
+<display>As ammonium, __________ can repeat this part of the cycle and be used by plants again.</display>
+
+<response>nitrogen</response>
+
+<parameter>-.00048</parameter>
+
+<display>As ammonium, nitrogen can repeat __________ part of the cycle and be used by plants again.</display>
+
+<response>this</response>
+
+<parameter>-.00049</parameter>
+
+<display>As ammonium, nitrogen can repeat this part of the cycle and be used by __________ again.</display>
+
+<response>plants</response>
+
+<parameter>-.0005</parameter>
+
+<display>As ammonium, nitrogen can repeat this part of the cycle and be used by plants __________</display>
+
+<response>again</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+3 
+<parameter>-.00051</parameter>
+
+<display>__________ nitrification happens mostly in environments with more oxygen, like topsoil.</display>
+
+<response>So</response>
+
+<parameter>-.00052</parameter>
+
+<display>So, nitrification __________ mostly in environments with more oxygen, like topsoil.</display>
+
+<response>happens</response>
+
+<parameter>-.00053</parameter>
+
+<display>So, nitrification happens __________ in environments with more oxygen, like topsoil.</display>
+
+<response>mostly</response>
+
+<parameter>-.00054</parameter>
+
+<display>So, nitrification happens mostly in environments __________ more oxygen, like topsoil.</display>
+
+<response>with</response>
+
+<parameter>-.00055</parameter>
+
+<display>So, nitrification happens mostly in environments with __________ oxygen, like topsoil.</display>
+
+<response>more</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+22 
+<parameter>-.00056</parameter>
+
+<display>But for plants, nitrate is a great __________</display>
+
+<response>nutrient</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+5 
+<parameter>-.00057</parameter>
+
+<display>It's __________ the reverse of nitrogen fixation.</display>
+
+<response>almost</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+0 
+<parameter>-.00058</parameter>
+
+<display>Whereas fixation steals __________ from the air, denitrification gives it back.</display>
+
+<response>nitrogen</response>
+
+<parameter>-.00059</parameter>
+
+<display>Whereas fixation steals nitrogen from the air, denitrification __________ it back.</display>
+
+<response>gives</response>
+
+<parameter>-.0006</parameter>
+
+<display>Whereas fixation steals nitrogen from the air, denitrification gives it __________</display>
+
+<response>back</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+15 
+<parameter>-.00061</parameter>
+
+<display>It __________ nitric oxide and nitrous oxide gases.</display>
+
+<response>makes</response>
+
+<parameter>-.00062</parameter>
+
+<display>It makes nitric __________ and nitrous oxide gases.</display>
+
+<response>oxide</response>
+
+<parameter>-.00063</parameter>
+
+<display>It makes nitric oxide and nitrous oxide __________</display>
+
+<response>gases</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+25 
+<parameter>-.00064</parameter>
+
+<display>However, humans __________ learned to harness denitrification.</display>
+
+<response>have</response>
+
+</cluster>
+
+
+<cluster>
+
+<displayType>Cloze</displayType>
+23 
+<parameter>-.00065</parameter>
+
+<display>To clean water, __________ treatment plants must remove the nitrates.</display>
+
+<response>water</response>
+
+<parameter>-.00066</parameter>
+
+<display>To clean water, water treatment __________ must remove the nitrates.</display>
+
+<response>plants</response>
+
+</cluster>
+         
+     </clusters>      
+ </setspec>
+
